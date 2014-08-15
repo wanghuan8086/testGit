@@ -1,4 +1,4 @@
 testGit
 =======
 
-learn how to use git step by step
+Creating a new branch is quick.
